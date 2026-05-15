@@ -219,16 +219,6 @@ Spaceship-Battle/
 [ ] Multiplayer (PvP)
 ```
 
----
 
-## 🤝 Contributing
 
-```bash
-git checkout -b feature/YourFeature
-git commit -m "feat: Add YourFeature"
-git push origin feature/YourFeature
-# → Open Pull Request
-```
-
----
 
