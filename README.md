@@ -232,19 +232,3 @@ git push origin feature/YourFeature
 
 ---
 
-<div align="center">
-
-```
-    *    .  *       .           *    .  *       .
-*       *      *        *  *       *      *        *
-  .    *  .    .      .   .    *  .    .      .   .
-
-          🚀  SPACESHIP BATTLE  —  v1.0.0-dev
-     3D Space Shooter · MVP · FSM · O(1) Pools · No Magic
-              Built with ❤️  in Unity & C#
-                   © 2025 xchrmas
-```
-
-[![GitHub](https://img.shields.io/badge/GitHub-xchrmas-181717?style=flat-square&logo=github)](https://github.com/xchrmas)
-
-</div>
